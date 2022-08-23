@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "* npm init -y             to create json file\r * npm install express                 to install express",
+  "main": "servor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kabhimanyu656/Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kabhimanyu656/Backend/issues"
+  },
+  "homepage": "https://github.com/kabhimanyu656/Backend#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
